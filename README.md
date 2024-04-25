@@ -2,6 +2,8 @@
 
 Modelos de Caixa trata-se da soma dos tamanhos do margin, padding e border.
 
+Estes valores são manipulados height (altura) e weight (largura).
+
 Este projeto estuda a interração desses valores.
 
 ## Técnologias utilizadas:
